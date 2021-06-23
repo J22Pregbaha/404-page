@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{error-404-page-jp.netlify.app/}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{github.com/J22Pregbaha/404-page}">
       Solution
     </a>
     <span> | </span>
@@ -39,10 +39,10 @@
 ![screenshot](desktop.png)
 ![screenshot](mobile.png)
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- The solution can be found on [404-error-page](https://error-404-page-jp.netlify.app/).
+- My background in CSS made it pretty easy.
+- I have improved my responsiveness using media queries.
+- Programming is fun and I know CSS isn't regarded as a programming language but I think it kinda is.
 
 ### Built With
 
@@ -67,6 +67,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://j22pregbaha.github.io/personal-website/)
-- GitHub [@your-username](https://{github.com/J22Pregbaha})
-- Twitter [@your-twitter](https://{twitter.com/JPregbaha})
+- Website [j22pregbaha.github.io/personal-website/](https://j22pregbaha.github.io/personal-website/)
+- GitHub [@J22Pregbaha](https://{github.com/J22Pregbaha})
+- Twitter [@JPregbaha](https://{twitter.com/JPregbaha})
