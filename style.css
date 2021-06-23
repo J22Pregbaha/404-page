@@ -1,0 +1,322 @@
+footer {
+	position: absolute;
+	left: 35%;
+	top: 96%;
+
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 1.2rem;
+	line-height: 17px;
+	/* identical to box height */
+
+	text-align: center;
+
+	color: #BDBDBD;
+}
+
+@media only screen and (min-device-width: 1150px) {
+	.logo {
+		position: absolute;
+		left: 3%;
+		top: 3%;
+
+		font-family: 'Inconsolata', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1.5rem;
+		line-height: 1.2rem;
+		letter-spacing: -0.08em;
+		text-transform: uppercase;
+
+		color: #333333;
+	}
+
+	.image {
+		position: absolute;
+		width: 489.22px;
+		height: 414.25px;
+		left: 5.35%;
+		right: 57.21%;
+		top: 12.54%;
+		bottom: 37.11%;
+	}
+
+	.headline {
+		position: absolute;
+		left: 47%;
+		top: 18%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 3rem;
+		line-height: 4rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 13% 0 auto;
+
+		/* Gray 1 */
+
+		color: #333333;
+	}
+
+	.news {
+		position: absolute;
+		left: 47%;
+		top: 42%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 1.5rem;
+		line-height: 2rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 20% 0 auto;
+
+		/* Gray 2 */
+
+		color: #4F4F4F;
+	}
+
+	.button {
+		position: absolute;
+		width: 216px;
+		height: 68px;
+		left: 47%;
+		top: 68%;
+
+		letter-spacing: -0.035em;
+		text-transform: uppercase;
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 21px;
+
+		color: #FFFFFF;
+
+		/* Gray 1 */
+
+		background: #333333;
+	}
+}
+
+@media only screen and (max-device-width: 1150px) and (min-device-width: 540px) {
+	.logo {
+		position: absolute;
+		left: 3%;
+		top: 3%;
+
+		font-family: 'Inconsolata', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1.45rem;
+		line-height: 1.2rem;
+		letter-spacing: -0.08em;
+		text-transform: uppercase;
+
+		color: #333333;
+	}
+
+	.image {
+		position: absolute;
+		width: 37%;
+		height: 65%;
+		left: 5.35%;
+		right: 57.21%;
+		top: 14.54%;
+		bottom: 37.11%;
+	}
+
+	.headline {
+		position: absolute;
+		left: 47%;
+		top: 20%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 3rem;
+		line-height: 4rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 10% 0 auto;
+
+		/* Gray 1 */
+
+		color: #333333;
+	}
+
+	.news {
+		position: absolute;
+		left: 47%;
+		top: 50%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 1.5rem;
+		line-height: 2rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 20% 0 auto;
+
+		/* Gray 2 */
+
+		color: #4F4F4F;
+	}
+
+	.button {
+		position: absolute;
+		width: 216px;
+		height: 68px;
+		left: 47%;
+		top: 77%;
+
+		letter-spacing: -0.035em;
+		text-transform: uppercase;
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 21px;
+
+		color: #FFFFFF;
+
+		/* Gray 1 */
+
+		background: #333333;
+	}
+}
+
+@media only screen and (max-device-width: 963px) {
+	.button {
+		position: absolute;
+		width: 216px;
+		height: 68px;
+		left: 47%;
+		top: 82%;
+
+		letter-spacing: -0.035em;
+		text-transform: uppercase;
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		line-height: 21px;
+
+		color: #FFFFFF;
+
+		/* Gray 1 */
+
+		background: #333333;
+	}
+}
+
+@media only screen and (max-device-width: 540px) {
+	.logo {
+		position: absolute;
+		left: 3%;
+		top: 3%;
+
+		font-family: 'Inconsolata', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 3.5rem;
+		line-height: 1.2rem;
+		letter-spacing: -0.08em;
+		text-transform: uppercase;
+
+		color: #333333;
+	}
+
+	.image {
+		position: absolute;
+		width: 80%;
+		height: 45%;
+		left: 11.73%;
+		right: 11.78%;
+		top: 9.29%;
+		bottom: 65.29%;
+	}
+
+	.headline {
+		position: absolute;
+		
+		left: 30%;
+		top: 55%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 3rem;
+		line-height: 4rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 14% 0 auto;
+
+		/* Gray 1 */
+
+		color: #333333;
+	}
+
+	.news {
+		position: absolute;
+		left: 30%;
+		top: 65%;
+
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 2rem;
+		line-height: 2.85rem;
+		letter-spacing: -0.035em;
+
+		margin: 0 18% 0 auto;
+
+		/* Gray 2 */
+
+		color: #4F4F4F;
+	}
+
+	.button {
+		position: absolute;
+		width: 316px;
+		height: 118px;
+		left: 30%;
+		top: 78%;
+
+		letter-spacing: -0.035em;
+		text-transform: uppercase;
+		font-family: 'Space Mono', monospace;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 1.8rem;
+		line-height: 2.85rem;
+
+		color: #FFFFFF;
+
+		/* Gray 1 */
+
+		background: #333333;
+	}
+
+	footer {
+		position: absolute;
+		left: 15%;
+		top: 96%;
+
+		font-family: Montserrat;
+		font-style: normal;
+		/*font-weight: 500;*/
+		font-size: 2rem;
+		line-height: 17px;
+		/* identical to box height */
+
+		text-align: center;
+
+		color: #BDBDBD;
+	}
+}
